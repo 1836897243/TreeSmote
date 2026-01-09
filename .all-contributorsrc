@@ -1,0 +1,66 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "badgeTemplate": "<a href=\"https://github.com/ZhiningLiu1998/imbalanced-ensemble#contributors-\"><img src=\"https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg\"></a>",
+  "contributors": [
+    {
+      "login": "ZhiningLiu1998",
+      "name": "Zhining Liu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26108487?v=4",
+      "profile": "http://zhiningliu.com",
+      "contributions": [
+        "code",
+        "ideas",
+        "maintenance",
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "leaphan",
+      "name": "leaphan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35593707?v=4",
+      "profile": "https://github.com/leaphan",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "hannanhtang",
+      "name": "hannanhtang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23587399?v=4",
+      "profile": "https://github.com/hannanhtang",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "huajuanren",
+      "name": "H.J.Ren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37321841?v=4",
+      "profile": "https://github.com/huajuanren",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "MarcSkovMadsen",
+      "name": "Marc Skov Madsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42288570?v=4",
+      "profile": "http://datamodelsanalytics.com",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "imbalanced-ensemble",
+  "projectOwner": "ZhiningLiu1998",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
