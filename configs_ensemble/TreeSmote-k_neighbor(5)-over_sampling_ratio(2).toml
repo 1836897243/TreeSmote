@@ -1,0 +1,4 @@
+k_neighbors = 5
+over_sampling_type = "TreeSmote"
+ratio = 2
+type = "balance"
